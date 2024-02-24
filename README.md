@@ -1,6 +1,6 @@
 # README - Projeto de Automação Web - Didatikus
 
-Este projeto está em andamento. Trata-se de uma automação de testes Web, em uma escola virtual, tal que o usuário (professor) devidamente cadastrado e logado, acessa o perfil da escola, dos alunos e plano de aula. 
+Este projeto está em andamento. Trata-se de uma automação de testes Web, em uma escola virtual, tal que o usuário (professor) devidamente cadastrado e logado, acessa o perfil da escola, dos alunos e planejamentos de aula. 
 
 ## Ferramenta utilizada
 
